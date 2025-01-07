@@ -40,11 +40,4 @@ Click the "Download as Image" button to save the content as an image.
 # Data Source
 The GDP data is sourced from the International Monetary Fund (IMF).
 
-# Future Enhancements
-Add animations to the list for better user interaction.
-
-Include links to more detailed economic profiles for each country.
-
-Allow the user to toggle between different years or rankings.
-
 # Thanks and best regards
