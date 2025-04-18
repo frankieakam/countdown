@@ -1,9 +1,8 @@
 ## Countdown of Africa's Largest Economies 2024
 
 # Overview
-This project showcases an interactive and visually appealing countdown of Africa's top 10 largest economies 
+This demo showcases an interactive and visually appealing countdown of Africa's top 10 largest economies 
 as of November 6th, 2024, based on GDP data from the International Monetary Fund (IMF). 
-The project uses HTML, CSS, and JavaScript to display the rankings, along with a feature to download the content as an image.
 
 # Features
 Dynamic List: A reversed ordered list highlighting the top 10 African economies with their GDP values.
